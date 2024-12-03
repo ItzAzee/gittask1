@@ -1,0 +1,13 @@
+Между master и demo отличий нет
+
+Вижу 10 коммитов
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
